@@ -1,0 +1,11 @@
+# NodeJS
+node_modules
+build
+coverage
+.nvmrc
+
+# Editor
+.vscode
+
+# System
+.DS_Store
